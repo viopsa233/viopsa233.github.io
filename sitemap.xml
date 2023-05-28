@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2023/04/05/My-New-Post-3/</loc>
+    <loc>https://viopsa233.github.io/project/2023/05/28/sydney-reporting/</loc>
+    
+    <lastmod>2023-05-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://viopsa233.github.io/project/2023/04/16/Disclaimer/</loc>
+    
+    <lastmod>2023-05-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://viopsa233.github.io/project/2023/04/05/My-New-Post-3/</loc>
     
     <lastmod>2023-05-15</lastmod>
     
@@ -11,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/04/05/My-New-Post-1/</loc>
+    <loc>https://viopsa233.github.io/project/2023/04/05/My-New-Post-1/</loc>
     
     <lastmod>2023-04-16</lastmod>
     
@@ -20,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/04/05/My-New-Post-2/</loc>
+    <loc>https://viopsa233.github.io/project/2023/04/05/My-New-Post-2/</loc>
     
     <lastmod>2023-04-16</lastmod>
     
@@ -29,16 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/04/16/Disclaimer/</loc>
-    
-    <lastmod>2023-04-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2023/04/04/My-New-Post/</loc>
+    <loc>https://viopsa233.github.io/project/2023/04/04/My-New-Post/</loc>
     
     <lastmod>2023-04-15</lastmod>
     
@@ -48,8 +57,8 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <loc>https://viopsa233.github.io/project</loc>
+    <lastmod>2023-05-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
